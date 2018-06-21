@@ -1,0 +1,10 @@
+F_SB_HD_1 1 net/n3/nanoxml/StdXMLBuilder.cpp
+F_SB_HD_2 2 net/n3/nanoxml/StdXMLBuilder.cpp
+F_SP_HD_1 3 net/n3/nanoxml/StdXMLParser.cpp
+F_XEL_HD_1 4 net/n3/nanoxml/XMLElement.cpp
+F_XEL_HD_2 5 net/n3/nanoxml/XMLElement.cpp
+F_XEL_HD_3 6 net/n3/nanoxml/XMLElement.cpp
+F_XEL_HD_4 7 net/n3/nanoxml/XMLElement.cpp
+F_XEL_HD_5 8 net/n3/nanoxml/XMLElement.cpp
+F_XEL_HD_6 9 net/n3/nanoxml/XMLElement.cpp
+F_XE_HD_1 10 net/n3/nanoxml/XMLException.cpp
